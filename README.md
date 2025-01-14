@@ -5,7 +5,7 @@ The paper is currently undergoing peer review.
 
 
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; justify-items: center; align-items: center;">
   <div style="text-align: center;">
     <img src="GIF/MoTIF_011.gif" alt="MoTIF GIF" width="640" height="360">
     <p>MoTIF Output</p>
