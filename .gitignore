@@ -1,7 +1,8 @@
-STVSR_OP_open_source/
 __pycache__/
 output/
-
+weight/
+src/eval/
+tmp.py
 # C extensions
 *.so
 
