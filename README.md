@@ -34,3 +34,72 @@ password: 8n5e  -->
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="GIF/MoTIF_015.gif" alt="MoTIF GIF" width="640" height="360"><br>
+      MoTIF Output
+    </td>
+    <td align="center">
+      <img src="GIF/TMnet_015.gif" alt="TMnet GIF" width="640" height="360"><br>
+      TMnet Output
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="GIF/zooming_slow_015.gif" alt="Zooming Slow GIF" width="640" height="360"><br>
+      Zooming Slow Output
+    </td>
+    <td align="center">
+      <img src="GIF/NOP_015.gif" alt="NOP GIF" width="640" height="360"><br>
+      NOP Output (Ours)
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="GIF/MoTIF_000_test.gif" alt="MoTIF GIF" width="640" height="360"><br>
+      MoTIF Output
+    </td>
+    <td align="center">
+      <img src="GIF/TMnet_000_test.gif" alt="TMnet GIF" width="640" height="360"><br>
+      TMnet Output
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="GIF/zooming_slow_000_test.gif" alt="Zooming Slow GIF" width="640" height="360"><br>
+      Zooming Slow Output
+    </td>
+    <td align="center">
+      <img src="GIF/NOP_000_test.gif" alt="NOP GIF" width="640" height="360"><br>
+      NOP Output (Ours)
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="GIF/MoTIF_001_test.gif" alt="MoTIF GIF" width="640" height="360"><br>
+      MoTIF Output
+    </td>
+    <td align="center">
+      <img src="GIF/TMnet_001_test.gif" alt="TMnet GIF" width="640" height="360"><br>
+      TMnet Output
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="GIF/zooming_slow_001_test.gif" alt="Zooming Slow GIF" width="640" height="360"><br>
+      Zooming Slow Output
+    </td>
+    <td align="center">
+      <img src="GIF/NOP_001_test.gif" alt="NOP GIF" width="640" height="360"><br>
+      NOP Output (Ours)
+    </td>
+  </tr>
+</table>
