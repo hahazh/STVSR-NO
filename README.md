@@ -12,21 +12,25 @@ This paper addresses the task of space-time video super-resolution (ST-VSR). Exi
 password: 8n5e  -->
 
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; justify-items: center; align-items: center;">
-  <div style="text-align: center;">
-    <img src="GIF/MoTIF_011.gif" alt="MoTIF GIF" width="640" height="360">
-    <p>MoTIF Output</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="GIF/TMnet_011.gif" alt="TMnet GIF" width="640" height="360">
-    <p>TMnet Output</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="GIF/zooming_slow_011.gif" alt="Zooming Slow GIF" width="640" height="360">
-    <p>Zooming Slow Output</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="GIF/NOP_011.gif" alt="NOP GIF" width="640" height="360">
-    <p>NOP Output (Ours)</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="GIF/MoTIF_011.gif" alt="MoTIF GIF" width="640" height="360"><br>
+      MoTIF Output
+    </td>
+    <td align="center">
+      <img src="GIF/TMnet_011.gif" alt="TMnet GIF" width="640" height="360"><br>
+      TMnet Output
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="GIF/zooming_slow_011.gif" alt="Zooming Slow GIF" width="640" height="360"><br>
+      Zooming Slow Output
+    </td>
+    <td align="center">
+      <img src="GIF/NOP_011.gif" alt="NOP GIF" width="640" height="360"><br>
+      NOP Output (Ours)
+    </td>
+  </tr>
+</table>
