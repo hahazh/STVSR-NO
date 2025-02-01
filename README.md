@@ -27,6 +27,6 @@ password: 8n5e  -->
   </div>
   <div style="text-align: center;">
     <img src="GIF/NOP_011.gif" alt="NOP GIF" width="640" height="360">
-    <p>NOP Output</p>
+    <p>NOP Output (Ours)</p>
   </div>
 </div>
