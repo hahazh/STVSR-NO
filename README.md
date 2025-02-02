@@ -132,4 +132,5 @@ Our code is built on
 
  [EMA-VFI](https://github.com/MCG-NJU/EMA-VFI)
  
+ [Galerkin Transformer](https://github.com/scaomath/galerkin-transformer)
  We thank the authors for sharing their codes!
