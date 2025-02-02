@@ -22,8 +22,9 @@ cd src/test_script
 python test_contin.py --datapath REDSPATH --outputpath  OUTPUTPATH --weight PATHTOWEIGHT
 ```
 
-<!-- [pretrained model]( https://pan.baidu.com/s/1PA7IoclyZsDXA7EhNlGQjA?pwd=8n5e)
-password: 8n5e  -->
+### pretrained weight
+[pretrained model]( https://pan.baidu.com/s/1PA7IoclyZsDXA7EhNlGQjA?pwd=8n5e)
+password: 8n5e 
 
 ## visual comparisons
 <table>
